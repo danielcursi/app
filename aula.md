@@ -53,3 +53,7 @@ Uma lista que contém qualquer tipo de dado
 - [x] Criar
 - [x] Executar
 - [x] Arrow function / named function
+
+### Estrutura de repetição
+
+- [x] while
