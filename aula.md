@@ -58,6 +58,15 @@ Uma lista que contém qualquer tipo de dado
 
 - [x] while
 
-# Condicionais
+## Condicionais
 
 - [x] switch
+
+# Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e promises:
+
+- [x] Uso de funções assíncronas (async/await)
