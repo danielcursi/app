@@ -41,7 +41,8 @@ constantes
 
 ### Arrays:
 
-Uma lista que contém qualquer tipo de dado
+- [x] Uma lista que contém qualquer tipo de dado
+- [x] Métodos de array
 
 ### Objetos:
 
